@@ -3,6 +3,6 @@ __pycache__/
 old/
 backup/
 data/
-bazel*/
+bazel*
 env/
 *.mp4
